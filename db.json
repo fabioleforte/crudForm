@@ -23,6 +23,22 @@
     {
       "nome": "Angular 4",
       "id": 6
+    },
+    {
+      "nome": "Angular Material",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "nome": "Angular Material 1"
+    },
+    {
+      "id": 9,
+      "nome": "Angular Material 5"
+    },
+    {
+      "id": 10,
+      "nome": "Angular Material 7"
     }
   ]
 }
